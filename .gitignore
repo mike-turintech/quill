@@ -15,3 +15,6 @@
 /docs/_build*/
 /bazel-*
 /MODULE.bazel.lock
+build-official/
+build-tests/
+artemis_results.json
